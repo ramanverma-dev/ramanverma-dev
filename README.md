@@ -1,390 +1,270 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:7c3aed&height=220&section=header&text=Raman%20Verma&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:4C1D95&height=220&section=header&text=Raman&fontSize=70&fontColor=E9D8FD&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%7C%20Software%20Engineering%20%7C%20Full-Stack&descAlignY=55&descSize=18&descColor=C4B5FD" width="100%"/>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+AI+Engineer;Building+Scalable+%26+Intelligent+Products;Full+Stack+Development+%7C+Cloud+%7C+AI%2FML;Engineering+with+Product+Mindset" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Backend+%2B+ML;B.Tech+AI+%26+ML+%40+AKTU;Building+Full-Stack+Range;Open+to+SWE+%2F+ML+Roles" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-4c1d95?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-Advanced-6366f1?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%2FML-Engineering-7c3aed?style=for-the-badge&logo=googlebrain&logoColor=white"/>
-<img src="https://img.shields.io/badge/India-Developer-312e81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+![B.Tech](https://img.shields.io/badge/B.Tech-AI%20%26%20ML-6D28D9?style=for-the-badge)
+![University](https://img.shields.io/badge/AKTU-Dr.%20APJ%20Abdul%20Kalam%20Technical%20University-4C1D95?style=for-the-badge)
+![Graduating](https://img.shields.io/badge/Graduating-April%202027-8B5CF6?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍-%5BYour%20City%2C%20Country%5D-6D28D9?style=for-the-badge)
 
-<br/><br/>
+<br/>
 
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/yourusername/">
-<img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/yourusername">
-<img src="https://img.shields.io/badge/GitHub-312e81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-11001F?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&color=6366f1&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/yourusername?label=FOLLOWERS&style=flat-square&color=7c3aed"/>
-<img src="https://img.shields.io/github/stars/yourusername?label=STARS&style=flat-square&color=4c1d95"/>
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/your-github-username?style=for-the-badge&color=6D28D9&labelColor=0D1117)
+![Stars](https://img.shields.io/github/stars/your-github-username?style=for-the-badge&color=4C1D95&labelColor=0D1117)
 
 </div>
 
 ---
 
-## About
+<h2 align="center">🟣 About</h2>
 
-Software Engineer focused on designing, building, and shipping reliable software systems and intelligent products.
+<div align="center">
 
-I work across the stack — from backend architecture and APIs to modern frontend experiences, cloud infrastructure, databases, and AI-powered application layers. My engineering approach combines strong computer-science fundamentals with practical product thinking: understand the problem, design the system, build incrementally, measure outcomes, and optimize for reliability and maintainability.
+B.Tech student in Artificial Intelligence & Machine Learning at AKTU, graduating April 2027.
+Building toward a generalist Software Engineer role with range across backend development and applied machine learning — with a product mindset, not just working code.
+Currently strengthening Java and backend fundamentals to extend into full-stack work.
+Background includes three AICTE-EduSkills virtual internships (Generative AI/AWS, ML & Data Science, Applied AI/ML) and hands-on project work spanning Python/Flask ML services and Java/SQL applications.
 
-My current technical interests include **Java, Spring Boot, distributed systems, full-stack development, AI/ML engineering, LLM-powered applications, cloud platforms, APIs, databases, and developer tooling**.
+</div>
 
-I enjoy turning ambiguous product requirements into production-oriented systems with clear architecture, measurable performance, strong security boundaries, and maintainable code.
-
-### Open To
-
-* Software Engineering opportunities
-* AI / ML Engineering opportunities
-* Full Stack Engineering roles
-* Backend Engineering roles
-* AI-powered product development
-* Open-source collaboration
-* High-impact engineering projects
+**Open To**
+- 💼 Software Engineer / Backend Engineer roles
+- 🤖 AI/ML Engineer roles
+- 🎓 New-grad opportunities (April 2027)
+- 🔧 Full-stack roles — actively building toward this
 
 ---
 
-## Tech Stack
+<h2 align="center">🟣 Tech Stack</h2>
 
-### Languages
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=python,java,js,html,css"/></p>
 
-<div align="center">
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=html,css,js"/></p>
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,c,html,css,bash&theme=dark" />
+**Backend & Databases**
+<p><img src="https://skillicons.dev/icons?i=flask,mysql,mongodb"/></p>
+<sub>Also: JDBC (no skill-icon available)</sub>
 
-</div>
-
-### Frontend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark" />
-
-</div>
-
-### Backend & Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql,postgresql,redis&theme=dark" />
-
-</div>
-
-### Cloud, DevOps & Tooling
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,postman,idea,vscode&theme=dark" />
-
-</div>
+**Cloud, DevOps & Tooling**
+<p><img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman"/></p>
 
 ---
 
-## AI / ML Expertise
+<h2 align="center">🟣 AI / ML Expertise</h2>
 
-| Domain                 |  Proficiency | Details                                                                           |
-| ---------------------- | :----------: | --------------------------------------------------------------------------------- |
-| Machine Learning       |   Advanced   | Supervised learning, unsupervised learning, model evaluation, feature engineering |
-| Deep Learning          | Intermediate | Neural networks, representation learning, model training fundamentals             |
-| NLP                    |   Advanced   | Text processing, embeddings, semantic search, classification                      |
-| Generative AI          |   Advanced   | LLM applications, prompting, RAG, agents, structured generation                   |
-| LLM Engineering        |   Advanced   | API integration, tool calling, context management, evaluation                     |
-| RAG Systems            |   Advanced   | Chunking, embeddings, vector retrieval, reranking, grounded generation            |
-| AI Agents              |   Advanced   | Agent workflows, tool use, orchestration, autonomous task execution               |
-| Computer Vision        | Intermediate | Image processing and vision-model fundamentals                                    |
-| AI Product Engineering |   Advanced   | Converting AI capabilities into usable, measurable product features               |
+| Domain | Proficiency | Details |
+|---|---|---|
+| Machine Learning Fundamentals | Foundational | Supervised learning workflow (preprocessing → training → evaluation) via Scikit-learn; applied in the Breast Cancer Prediction project |
+| Generative AI | Foundational | AWS Academy Generative AI Foundations certification + AICTE-EduSkills Generative AI/AWS virtual internship |
+| Data Science | Foundational | AICTE-EduSkills ML & Data Science virtual internship |
+| Applied AI/ML | Foundational | AICTE-EduSkills AI/ML virtual internship |
 
 ---
 
-## Featured Projects
+<h2 align="center">🟣 Featured Projects</h2>
 
 <details>
-<summary><strong>CartGenie AI — AI-Powered Upsell & Cross-Sell Agent</strong></summary>
+<summary><b>🩺 Breast Cancer Prediction Model</b></summary>
+<br/>
 
-### CartGenie AI
+A Flask-served machine learning classifier trained with Scikit-learn on tumor diagnostic data.
 
-An AI-powered product recommendation and revenue-optimization system designed to identify relevant upsell and cross-sell opportunities during the customer journey.
-
-| Category        | Details                                                                       |
-| --------------- | ----------------------------------------------------------------------------- |
-| **Stack**       | Java, Spring Boot, React, REST APIs, AI/LLM APIs, Database                    |
-| **Scale**       | Designed for modular, API-driven product recommendation workflows             |
-| **Performance** | Optimized request flows, lightweight API boundaries, reusable services        |
-| **Security**    | Input validation, API boundaries, authentication-ready architecture           |
-| **Impact**      | Improves product discovery and enables intelligent recommendation experiences |
-| **Repository**  | [GitHub Repository](https://github.com/yourusername/cartgenie-ai)             |
-
-### Engineering Focus
-
-* AI-assisted product recommendation
-* Upsell and cross-sell decision workflows
-* Backend API architecture
-* Product-context processing
-* Intelligent customer interactions
-* Modular service design
-* Production-oriented application architecture
+| | |
+|---|---|
+| **Stack** | Python, Flask, Scikit-learn |
+| **Scale** | Solo project — REST API serving a single trained model |
+| **Performance** | `[Add validated accuracy/F1 once benchmarked — do not publish an unverified number]` |
+| **Security** | Basic input validation on the prediction endpoint; no authentication layer yet |
+| **Impact** | Demonstrates end-to-end applied ML: preprocessing, training, and API deployment |
+| **Repository** | `[Add repo link]` |
 
 </details>
 
 <details>
-<summary><strong>AI-Powered Full Stack Application</strong></summary>
+<summary><b>💇 Salon Booking System</b></summary>
+<br/>
 
-### AI Application Platform
+A salon appointment booking web application built with Flask, letting users browse services and book appointments through a lightweight frontend.
 
-A full-stack application demonstrating the integration of modern frontend engineering, backend services, APIs, databases, and AI capabilities into a cohesive product.
-
-| Category        | Details                                                               |
-| --------------- | --------------------------------------------------------------------- |
-| **Stack**       | Java, Spring Boot, React, JavaScript, REST APIs, SQL/NoSQL            |
-| **Scale**       | Modular full-stack architecture designed for feature expansion        |
-| **Performance** | Efficient API communication and component-level optimization          |
-| **Security**    | Validation, authorization-ready APIs, secure configuration practices  |
-| **Impact**      | Demonstrates end-to-end product engineering and AI integration        |
-| **Repository**  | [GitHub Repository](https://github.com/yourusername/ai-fullstack-app) |
-
-### Engineering Focus
-
-* Full-stack application architecture
-* RESTful API development
-* AI service integration
-* Database-backed workflows
-* Frontend/backend separation
-* Maintainable and extensible code structure
+| | |
+|---|---|
+| **Stack** | Flask, Python, HTML/CSS/JS |
+| **Scale** | Solo project — single-tenant booking flow |
+| **Performance** | `[Add benchmark once measured]` |
+| **Security** | `[Verify against the actual repo before publishing any claim here]` |
+| **Impact** | Demonstrates a full request-to-database booking workflow in Flask |
+| **Repository** | `[Add repo link]` |
 
 </details>
 
 <details>
-<summary><strong>Developer Productivity Platform</strong></summary>
+<summary><b>🏧 ATM Management System</b></summary>
+<br/>
 
-### Developer Productivity Platform
+A console-based ATM transaction simulation backed by a MySQL database via JDBC.
 
-A developer-focused system built around automation, API integration, reusable workflows, and engineering productivity.
-
-| Category        | Details                                                                      |
-| --------------- | ---------------------------------------------------------------------------- |
-| **Stack**       | Java, Spring Boot, React, REST APIs, Docker                                  |
-| **Scale**       | Designed around independently maintainable application modules               |
-| **Performance** | Efficient service boundaries and asynchronous-ready workflows                |
-| **Security**    | Environment-based secrets and controlled API access                          |
-| **Impact**      | Automates repetitive engineering workflows and improves developer efficiency |
-| **Repository**  | [GitHub Repository](https://github.com/yourusername/developer-platform)      |
-
-### Engineering Focus
-
-* Automation
-* API design
-* Developer tooling
-* Backend architecture
-* Containerization
-* Engineering workflow optimization
+| | |
+|---|---|
+| **Stack** | Java, JDBC, MySQL |
+| **Scale** | Solo project — single-user transaction simulation |
+| **Performance** | `[Add benchmark once measured]` |
+| **Security** | `[Confirm parameterized queries are implemented before claiming injection-safety]` |
+| **Impact** | Demonstrates core Java + relational database integration |
+| **Repository** | `[Add repo link]` |
 
 </details>
 
 ---
 
-## Experience
+<h2 align="center">🟣 Experience</h2>
 
-### Software Engineering / AI Engineering
+**Generative AI / AWS Virtual Intern**
+*AICTE-EduSkills* &nbsp;|&nbsp; `[Add date range]`
+- Completed a structured virtual internship covering Generative AI concepts and AWS foundations
+- `[Add specific scope of work]`
 
-**Independent Engineering & Project Development**
-*2024 — Present*
+`AWS` `Generative AI` `Cloud Fundamentals`
 
-Building software systems and AI-powered applications across backend, full-stack, and intelligent application domains.
+**ML & Data Science Virtual Intern**
+*AICTE-EduSkills* &nbsp;|&nbsp; `[Add date range]`
+- Completed applied coursework and project work in ML workflows and data science fundamentals
+- `[Add specific scope of work]`
 
-* Designing RESTful backend services and modular application architectures
-* Developing full-stack applications using modern frontend and backend technologies
-* Integrating AI and LLM capabilities into practical software products
-* Working with relational and NoSQL database systems
-* Building reusable APIs and service-layer abstractions
-* Applying software engineering principles to production-oriented projects
-* Exploring cloud-native development and containerized deployments
-* Improving application reliability, maintainability, and performance
+`Machine Learning` `Data Science` `Python`
 
-**Skills:** `Java` `Spring Boot` `Python` `React` `JavaScript` `SQL` `MongoDB` `REST APIs` `AI/ML` `LLMs` `Git` `Docker` `AWS`
+**AI/ML Virtual Intern**
+*AICTE-EduSkills* &nbsp;|&nbsp; `[Add date range]`
+- Completed a virtual internship applying core AI/ML concepts and techniques
+- `[Add specific scope of work]`
+
+`Artificial Intelligence` `Machine Learning`
 
 ---
 
-## Achievements
+<h2 align="center">🟣 Achievements</h2>
 
 <div align="center">
 
-| Recognition              | Details                                                                                      |
-| ------------------------ | -------------------------------------------------------------------------------------------- |
-| **Software Engineering** | Built end-to-end applications spanning frontend, backend, databases, APIs, and AI            |
-| **AI Engineering**       | Developed practical AI-powered application workflows and LLM integrations                    |
-| **Problem Solving**      | Consistent focus on data structures, algorithms, system design, and engineering fundamentals |
-| **Project Development**  | Designed and implemented portfolio projects with production-oriented architecture            |
-| **Continuous Learning**  | Continuously expanding expertise across cloud, AI, backend, and full-stack engineering       |
+| Recognition | Details |
+|:---:|:---:|
+| `[Add recognition — hackathon, contest rank, publication]` | `[Add details and date]` |
 
 </div>
 
 ---
 
-## Certifications
+<h2 align="center">🟣 Certifications</h2>
 
-### AWS
+**AWS**
+<p>
+<img src="https://img.shields.io/badge/AWS%20Academy-Generative%20AI%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Fundamentals-4c1d95?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Java%20Certification-6366f1?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Certified-7c3aed?style=for-the-badge&logo=bookstack&logoColor=white"/>
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Networking-312e81?style=for-the-badge&logo=cisco&logoColor=white"/>
+**MongoDB**
+<p>
+<img src="https://img.shields.io/badge/MongoDB-AI%20Learning%20Program-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
 ---
 
-## Coding Profiles
+<h2 align="center">🟣 Coding Profiles</h2>
 
 <div align="center">
 
-<a href="https://leetcode.com/yourusername/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-4c1d95?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/yourusername/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-6366f1?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/yourusername">
-<img src="https://img.shields.io/badge/HackerRank-Profile-7c3aed?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/yourusername">
-<img src="https://img.shields.io/badge/CodeChef-Profile-312e81?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/your-username)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/your-username)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-username)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-username)
 
 </div>
 
 ---
 
-## GitHub Analytics
+<h2 align="center">🟣 GitHub Analytics</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A78BFA&icon_color=6366F1&text_color=C9D1D9"/>
+<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=6366F1&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-
-</div>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
+<img src="https://streak-stats.demolab.com?user=your-github-username&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="100%"/>
 
 </div>
 
 ---
 
-## GitHub Trophies
+<h2 align="center">🟣 GitHub Trophies</h2>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=true&row=1&column=6"/>
 
 </div>
 
 ---
 
-## Contribution Activity
+<h2 align="center">🟣 Contribution Activity</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=A78BFA&line=6366F1&point=7C3AED&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=E9D8FD" width="100%"/>
 
 </div>
 
 ---
 
-## Contribution Snake
+<h2 align="center">🟣 Contribution Snake</h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 
 ---
 
-## Current Focus
+<h2 align="center">🟣 Current Focus</h2>
 
 ```yaml
-Learning:
-  - Advanced Java & Spring Boot
-  - Data Structures & Algorithms
-  - System Design
-  - Distributed Systems
-  - AI/ML Engineering
-  - LLM Application Development
-  - Cloud Architecture
-
-Building:
-  - AI-powered software products
-  - Full-stack applications
-  - Production-ready backend systems
-  - Intelligent recommendation systems
-  - Developer productivity tools
-
-Exploring:
-  - Generative AI
-  - AI Agents
-  - Retrieval-Augmented Generation
-  - Vector Databases
-  - Cloud-Native Architecture
-  - Scalable Distributed Systems
-
-Open To:
-  - Software Engineering
-  - AI/ML Engineering
-  - Backend Engineering
-  - Full Stack Engineering
-  - Open Source Collaboration
-  - High-Impact Engineering Projects
+current_focus:
+  learning:
+    - "Java & Spring Boot fundamentals for full-stack range"
+    - "Full-stack project architecture"
+  building:
+    - "[Add current project]"
+  exploring:
+    - "Generative AI application patterns"
+  open_to:
+    - "Software Engineer roles"
+    - "Backend Engineer roles"
+    - "AI/ML Engineer roles"
+    - "New-grad opportunities (April 2027)"
 ```
 
 ---
 
-## Connect
+<h2 align="center">🟣 Connect</h2>
 
 <div align="center">
 
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-4c1d95?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/yourusername/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6366f1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/yourusername">
-<img src="https://img.shields.io/badge/GitHub-Follow-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-312e81?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![GitHub](https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-11001F?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
 
 </div>
 
@@ -392,9 +272,8 @@ Open To:
 
 <div align="center">
 
-> **"Build systems that scale, products that matter, and software that lasts."**
+*Learning in public. Building what I can prove.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:6366f1,100:4c1d95&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:6D28D9&height=120&section=footer" width="100%"/>
 
 </div>
-
