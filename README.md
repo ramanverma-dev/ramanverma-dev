@@ -15,6 +15,8 @@
 
 <br/><br/>
 
+## Connect
+
 <a href="https://yourportfolio.com">
 <img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
@@ -186,33 +188,6 @@ Open To:
   - Open Source Collaboration
   - High-Impact Engineering Projects
 ```
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-4c1d95?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/yourusername/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6366f1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/yourusername">
-<img src="https://img.shields.io/badge/GitHub-Follow-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit-312e81?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 > **"Build systems that scale, products that matter, and software that lasts."**
