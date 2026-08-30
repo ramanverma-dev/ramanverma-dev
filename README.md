@@ -145,7 +145,61 @@ My current goal is to build scalable and maintainable applications while growing
 
 ## Certifications
 
+## Certifications
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 Generative AI
+
+**AICTE–EduSkills**  
+Gen AI Virtual Internship  
+*June – August 2026*  
+Curriculum by AWS Academy
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 AI & Machine Learning
+
+**AICTE–EduSkills**  
+AI-ML Virtual Internship  
+*January – March 2026*  
+Supported by Google for Developers
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 Machine Learning & Data Science
+
+**EduSkills Academy**  
+Machine Learning & Data Science Internship  
+*8-week program*  
+Completed June 2026
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📈 Data Visualization
+
+**Anudip Foundation / Mettl**  
+Data Visualization  
+*136 Hours · Grade A1*  
+March 2026
+
+</td>
+
+</tr>
+</table>
 
 ## Current Focus
 
