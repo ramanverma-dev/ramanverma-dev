@@ -27,6 +27,9 @@
 <a href="https://github.com/ramanverma-dev">
 <img src="https://img.shields.io/badge/GitHub-312e81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://leetcode.com/u/ramanvermadev/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 <br/><br/>
 
