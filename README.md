@@ -105,23 +105,6 @@ My current goal is to build scalable and maintainable applications while growing
 
 </div>
 
-## Featured Projects
-
-<details>
-<summary><strong>CartGenie AI — AI-Powered Upsell & Cross-Sell Agent</strong></summary>
-
-### CartGenie AI
-
-An AI-powered product recommendation and revenue-optimization system designed to identify relevant upsell and cross-sell opportunities during the customer journey.
-
-| Category        | Details                                                                       |
-| --------------- | ----------------------------------------------------------------------------- |
-| **Stack**       | Java, Spring Boot, React, REST APIs, AI/LLM APIs, Database                    |
-| **Scale**       | Designed for modular, API-driven product recommendation workflows             |
-| **Performance** | Optimized request flows, lightweight API boundaries, reusable services        |
-| **Security**    | Input validation, API boundaries, authentication-ready architecture           |
-| **Impact**      | Improves product discovery and enables intelligent recommendation experiences |
-| **Repository**  | [GitHub Repository](https://github.com/yourusername/cartgenie-ai)             |
 
 ### Engineering Focus
 
