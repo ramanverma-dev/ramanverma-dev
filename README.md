@@ -33,12 +33,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&color=6366f1&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/yourusername?label=FOLLOWERS&style=flat-square&color=7c3aed"/>
-<img src="https://img.shields.io/github/stars/yourusername?label=STARS&style=flat-square&color=4c1d95"/>
-
-</div>
-
 ---
 
 ## About
