@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:7c3aed&height=220&section=header&text=Raman%20Verma&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:7c3aed&height=220&section=header&text=Raman%20Verma&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Software+Engineer;Building+Scalable+%26+Intelligent+Products;Engineering+with+Product+Mindset" alt="Typing SVG"/>
