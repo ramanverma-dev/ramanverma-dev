@@ -39,6 +39,10 @@
 
 ## About
 
+<table>
+<tr>
+<td>
+
 I’m Raman Verma, an aspiring Software Engineer focused on **Java backend development, problem-solving, and building practical software applications**.
 
 My core technical interests include **Java, Object-Oriented Programming, Data Structures & Algorithms, Spring Boot, SQL, databases, REST APIs, Git/GitHub, and backend development**.
@@ -49,7 +53,18 @@ I learn by building — solving problems, developing projects, understanding sof
 
 My current goal is to build scalable and maintainable applications while growing as a **Java Backend / Software Engineer**.
 
-### Currently Focused On
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎯 Currently Focused On
 
 - ☕ Java & Spring Boot
 - 🧩 Data Structures & Algorithms
@@ -60,7 +75,11 @@ My current goal is to build scalable and maintainable applications while growing
 - 🤖 AI/ML & AI-powered Applications
 - 🚀 Full-Stack Development
 
-### Open To
+</td>
+
+<td width="50%" valign="top">
+
+### 🤝 Open To
 
 - Software Engineering Opportunities
 - Java Backend Development
@@ -70,6 +89,11 @@ My current goal is to build scalable and maintainable applications while growing
 - AI-powered Product Development
 - Open-source Collaboration
 - Software Engineering Projects
+
+</td>
+
+</tr>
+</table>
 
 ---
 
