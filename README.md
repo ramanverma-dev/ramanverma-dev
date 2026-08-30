@@ -18,10 +18,10 @@
 <a href="https://yourportfolio.com">
 <img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/yourusername/">
+<a href="https://www.linkedin.com/in/ramanverma-dev">
 <img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:imramanverma2007@gmail.com">
 <img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/yourusername">
