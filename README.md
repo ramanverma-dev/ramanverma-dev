@@ -105,24 +105,6 @@ My current goal is to build scalable and maintainable applications while growing
 
 </div>
 
----
-
-## AI / ML Expertise
-
-| Domain                 |  Proficiency | Details                                                                           |
-| ---------------------- | :----------: | --------------------------------------------------------------------------------- |
-| Machine Learning       |   Advanced   | Supervised learning, unsupervised learning, model evaluation, feature engineering |
-| Deep Learning          | Intermediate | Neural networks, representation learning, model training fundamentals             |
-| NLP                    |   Advanced   | Text processing, embeddings, semantic search, classification                      |
-| Generative AI          |   Advanced   | LLM applications, prompting, RAG, agents, structured generation                   |
-| LLM Engineering        |   Advanced   | API integration, tool calling, context management, evaluation                     |
-| RAG Systems            |   Advanced   | Chunking, embeddings, vector retrieval, reranking, grounded generation            |
-| AI Agents              |   Advanced   | Agent workflows, tool use, orchestration, autonomous task execution               |
-| Computer Vision        | Intermediate | Image processing and vision-model fundamentals                                    |
-| AI Product Engineering |   Advanced   | Converting AI capabilities into usable, measurable product features               |
-
----
-
 ## Featured Projects
 
 <details>
