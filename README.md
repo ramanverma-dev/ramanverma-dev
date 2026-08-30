@@ -265,62 +265,6 @@ March 2026
 </tr>
 </table>
 
-### 📚 Learning
-
-- Advanced Java & Spring Boot
-- Data Structures & Algorithms
-- System Design
-- Distributed Systems
-- AI/ML Engineering
-- LLM Application Development
-- Cloud Architecture
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛠️ Building
-
-- AI-powered software products
-- Full-stack applications
-- Production-ready backend systems
-- Intelligent recommendation systems
-- Developer productivity tools
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🔭 Exploring
-
-- Generative AI
-- AI Agents
-- Retrieval-Augmented Generation
-- Vector Databases
-- Cloud-Native Architecture
-- Scalable Distributed Systems
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤝 Open To
-
-- Software Engineering
-- AI/ML Engineering
-- Backend Engineering
-- Full Stack Engineering
-- Open Source Collaboration
-- High-Impact Engineering Projects
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
 <i>"Build systems that scale, products that matter, and software that lasts."</i>
 
 </div>
