@@ -77,7 +77,7 @@ My current goal is to build scalable and maintainable applications while growing
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,c,html,css,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css&theme=dark" />
 
 </div>
 
@@ -85,7 +85,7 @@ My current goal is to build scalable and maintainable applications while growing
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
 
 </div>
 
@@ -93,7 +93,7 @@ My current goal is to build scalable and maintainable applications while growing
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql,postgresql,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,mongodb,mysql,postgresql&theme=dark" />
 
 </div>
 
@@ -101,7 +101,7 @@ My current goal is to build scalable and maintainable applications while growing
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,postman,idea,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=dark" />
 
 </div>
 
