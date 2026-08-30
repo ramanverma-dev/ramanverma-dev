@@ -24,7 +24,7 @@
 <a href="mailto:imramanverma2007@gmail.com">
 <img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/yourusername">
+<a href="https://github.com/ramanverma-dev">
 <img src="https://img.shields.io/badge/GitHub-312e81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
