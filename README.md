@@ -193,7 +193,11 @@ My current goal is to build scalable and maintainable applications while growing
 </tr>
 </table>
 
-> **"Build systems that scale, products that matter, and software that lasts."**
+<div align="center">
+
+<i>"Build systems that scale, products that matter, and software that lasts."</i>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:6366f1,100:4c1d95&height=120&section=footer&animation=fadeIn" width="100%"/>
 
