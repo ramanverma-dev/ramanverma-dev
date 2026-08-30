@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/AI%2FML-Engineering-7c3aed?style=for-the-badge&logo=googlebrain&logoColor=white"/>
 <img src="https://img.shields.io/badge/India-Developer-312e81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 ## Connect
 
@@ -132,26 +132,6 @@ My current goal is to build scalable and maintainable applications while growing
 </a>
 
 </div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A78BFA&icon_color=6366F1&text_color=C9D1D9"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=6366F1&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-
-</div>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
-
-</div>
-
----
 
 ## Current Focus
 
