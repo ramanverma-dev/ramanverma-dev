@@ -37,23 +37,37 @@
 
 ## About
 
-Software Engineer focused on designing, building, and shipping reliable software systems and intelligent products.
+I’m Raman Verma, an aspiring Software Engineer focused on **Java backend development, problem-solving, and building practical software applications**.
 
-I work across the stack — from backend architecture and APIs to modern frontend experiences, cloud infrastructure, databases, and AI-powered application layers. My engineering approach combines strong computer-science fundamentals with practical product thinking: understand the problem, design the system, build incrementally, measure outcomes, and optimize for reliability and maintainability.
+My core technical interests include **Java, Object-Oriented Programming, Data Structures & Algorithms, Spring Boot, SQL, databases, REST APIs, Git/GitHub, and backend development**.
 
-My current technical interests include **Java, Spring Boot, distributed systems, full-stack development, AI/ML engineering, LLM-powered applications, cloud platforms, APIs, databases, and developer tooling**.
+I also have a foundation in **Python, AI/ML, and data science**, and I’m exploring how AI can be integrated into practical software applications.
 
-I enjoy turning ambiguous product requirements into production-oriented systems with clear architecture, measurable performance, strong security boundaries, and maintainable code.
+I learn by building — solving problems, developing projects, understanding software architecture, and continuously strengthening my engineering fundamentals.
+
+My current goal is to build scalable and maintainable applications while growing as a **Java Backend / Software Engineer**.
+
+### Currently Focused On
+
+- ☕ Java & Spring Boot
+- 🧩 Data Structures & Algorithms
+- 🌐 Backend Development
+- 🗄️ SQL & Databases
+- 🔌 REST APIs
+- 🛠️ Git & GitHub
+- 🤖 AI/ML & AI-powered Applications
+- 🚀 Full-Stack Development
 
 ### Open To
 
-* Software Engineering opportunities
-* AI / ML Engineering opportunities
-* Full Stack Engineering roles
-* Backend Engineering roles
-* AI-powered product development
-* Open-source collaboration
-* High-impact engineering projects
+- Software Engineering Opportunities
+- Java Backend Development
+- Backend Engineering
+- Full-Stack Development
+- AI/ML Projects
+- AI-powered Product Development
+- Open-source Collaboration
+- Software Engineering Projects
 
 ---
 
