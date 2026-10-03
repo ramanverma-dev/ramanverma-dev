@@ -106,35 +106,9 @@ My current goal is to build scalable and maintainable applications while growing
 
 ## Tech Stack
 
-### Languages
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css&theme=dark" />
-
-</div>
-
-### Frontend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
-
-</div>
-
-### Backend & Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,mongodb,mysql,postgresql&theme=dark" />
-
-</div>
-
-### Cloud, DevOps & Tooling
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=dark" />
+<img src="./stack.svg?v=1" alt="Raman Verma Tech Stack" width="100%"/>
 
 </div>
 
