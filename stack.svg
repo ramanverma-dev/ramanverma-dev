@@ -1,67 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540">
-  <defs>
-    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
-    </linearGradient>
-    <radialGradient id="core"><stop offset="0" stop-color="#f472b6"/><stop offset=".55" stop-color="#a78bfa"/><stop offset="1" stop-color="#4f46e5"/></radialGradient>
-    <filter id="glow"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#64748b" opacity=".14"/></pattern>
-    <style>
-      .bg{fill:#0d0e16}.card{fill:#111321;stroke:url(#border);stroke-width:1.5}
-      .title{font:700 27px Inter,Arial,sans-serif;fill:#f1f5f9}.kicker{font:700 12px ui-monospace,SFMono-Regular,Consolas,monospace;letter-spacing:3px;fill:#22d3ee}
-      .group{font:700 11px ui-monospace,SFMono-Regular,Consolas,monospace;letter-spacing:2px;fill:#94a3b8}
-      .chip{fill:#171a29;stroke:#34405b;stroke-width:1}.label{font:600 13px Inter,Arial,sans-serif;fill:#e2e8f0}
-      .icon{font:800 11px ui-monospace,SFMono-Regular,Consolas,monospace}
-    </style>
-  </defs>
-  <rect width="1200" height="540" class="bg"/>
-  <rect x="22" y="22" width="1156" height="496" rx="24" class="card"/>
-  <rect x="22" y="22" width="1156" height="496" rx="24" fill="url(#dots)"/>
-  <text x="58" y="66" class="kicker">// TECH STACK</text>
-  <text x="58" y="101" class="title">Tools I build with</text>
+<defs>
+  <linearGradient id="border" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+  <radialGradient id="core"><stop stop-color="#f472b6"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#4f46e5"/></radialGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#64748b" opacity=".14"/></pattern>
+  <style>
+    .title{font:700 27px Inter,Arial,sans-serif;fill:#f1f5f9}.kick{font:700 12px ui-monospace,monospace;letter-spacing:3px;fill:#22d3ee}
+    .group{font:700 11px ui-monospace,monospace;letter-spacing:2px;fill:#94a3b8}.label{font:600 12px Inter,Arial,sans-serif;fill:#e2e8f0}
+    .node{fill:#151827;stroke-width:1.2}.icon{font:800 9px ui-monospace,monospace}
+  </style>
+</defs>
+<rect width="1200" height="540" fill="#0d0e16"/>
+<rect x="22" y="22" width="1156" height="496" rx="24" fill="#111321" stroke="url(#border)" stroke-width="1.5"/>
+<rect x="22" y="22" width="1156" height="496" rx="24" fill="url(#dots)"/>
+<text x="58" y="66" class="kick">// TECH STACK</text>
+<text x="58" y="101" class="title">Tools I build with</text>
 
-  <!-- orbit system -->
-  <g transform="translate(285 285)">
-    <ellipse rx="175" ry="92" fill="none" stroke="#22d3ee" stroke-opacity=".28" transform="rotate(25)"/>
-    <ellipse rx="175" ry="92" fill="none" stroke="#a78bfa" stroke-opacity=".26" transform="rotate(-35)"/>
-    <ellipse rx="155" ry="125" fill="none" stroke="#38bdf8" stroke-opacity=".22" transform="rotate(80)"/>
-    <circle r="57" fill="#a78bfa" opacity=".16" filter="url(#glow)"/>
-    <circle r="43" fill="url(#core)" stroke="#f472b6" stroke-width="1.5"/>
-    <text x="-17" y="9" font-family="Arial,sans-serif" font-size="24" font-weight="800" fill="#fff">&lt;/&gt;</text>
-    <g>
-      <circle cx="-139" cy="-12" r="18" fill="#151a29" stroke="#f97316"/><text x="-148" y="-8" class="icon" fill="#f97316">HTML</text>
-      <circle cx="98" cy="-92" r="18" fill="#151a29" stroke="#22d3ee"/><text x="91" y="-88" class="icon" fill="#22d3ee">JS</text>
-      <circle cx="52" cy="107" r="18" fill="#151a29" stroke="#facc15"/><text x="45" y="111" class="icon" fill="#facc15">JS</text>
-      <circle cx="-9" cy="-128" r="18" fill="#151a29" stroke="#a78bfa"/><text x="-17" y="-124" class="icon" fill="#a78bfa">TS</text>
-      <circle cx="-8" cy="137" r="18" fill="#151a29" stroke="#38bdf8"/><text x="-17" y="141" class="icon" fill="#38bdf8">CSS</text>
-      <circle cx="127" cy="43" r="18" fill="#151a29" stroke="#22c55e"/><text x="118" y="47" class="icon" fill="#22c55e">PY</text>
+<!-- revolving skill system: only the skills from the previous README -->
+<g transform="translate(285 285)">
+  <ellipse rx="185" ry="92" fill="none" stroke="#22d3ee" stroke-opacity=".28" transform="rotate(25)"/>
+  <ellipse rx="185" ry="92" fill="none" stroke="#a78bfa" stroke-opacity=".25" transform="rotate(-35)"/>
+  <ellipse rx="150" ry="126" fill="none" stroke="#38bdf8" stroke-opacity=".20" transform="rotate(80)"/>
+  <circle r="61" fill="#a78bfa" opacity=".15" filter="url(#glow)"/>
+  <circle r="43" fill="url(#core)" stroke="#f472b6" stroke-width="1.5"/>
+  <text x="-17" y="8" font-family="Arial" font-size="23" font-weight="800" fill="#fff">&lt;/&gt;</text>
+
+  <!-- Orbit 1 -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+    <g transform="translate(185 0)">
+      <rect x="-34" y="-16" width="68" height="32" rx="10" class="node" stroke="#f97316"/><text x="-23" y="5" class="icon" fill="#f97316">HTML</text>
     </g>
-    <circle r="57" fill="none" stroke="#a78bfa" stroke-opacity=".5">
-      <animate attributeName="r" values="57;66;57" dur="3s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values=".6;.05;.6" dur="3s" repeatCount="indefinite"/>
-    </circle>
+    <g transform="translate(-185 0)">
+      <rect x="-31" y="-16" width="62" height="32" rx="10" class="node" stroke="#facc15"/><text x="-19" y="5" class="icon" fill="#facc15">JS</text>
+    </g>
+    <g transform="translate(0 126)">
+      <rect x="-32" y="-16" width="64" height="32" rx="10" class="node" stroke="#38bdf8"/><text x="-20" y="5" class="icon" fill="#38bdf8">CSS</text>
+    </g>
+    <g transform="translate(0 -126)">
+      <rect x="-32" y="-16" width="64" height="32" rx="10" class="node" stroke="#a78bfa"/><text x="-21" y="5" class="icon" fill="#a78bfa">JAVA</text>
+    </g>
   </g>
 
-  <!-- right skill groups -->
-  <g transform="translate(520 112)">
-    <rect x="0" y="0" width="7" height="4" rx="2" fill="#22d3ee"/><text x="17" y="6" class="group">FRONTEND</text>
-    <g transform="translate(0 24)"><rect width="88" height="38" rx="10" class="chip" stroke="#f97316" stroke-opacity=".45"/><circle cx="19" cy="19" r="10" fill="#f97316" opacity=".18"/><text x="14" y="23" class="icon" fill="#f97316">●</text><text x="34" y="24" class="label">HTML5</text></g><g transform="translate(90 24)"><rect width="78" height="38" rx="10" class="chip" stroke="#a78bfa" stroke-opacity=".45"/><circle cx="19" cy="19" r="10" fill="#a78bfa" opacity=".18"/><text x="14" y="23" class="icon" fill="#a78bfa">●</text><text x="34" y="24" class="label">CSS</text></g><g transform="translate(170 24)"><rect width="112" height="38" rx="10" class="chip" stroke="#facc15" stroke-opacity=".45"/><circle cx="19" cy="19" r="10" fill="#facc15" opacity=".18"/><text x="14" y="23" class="icon" fill="#facc15">●</text><text x="34" y="24" class="label">JavaScript</text></g><g transform="translate(284 24)"><rect width="108" height="38" rx="10" class="chip" stroke="#38bdf8" stroke-opacity=".45"/><circle cx="19" cy="19" r="10" fill="#38bdf8" opacity=".18"/><text x="14" y="23" class="icon" fill="#38bdf8">●</text><text x="34" y="24" class="label">TypeScript</text></g><g transform="translate(394 24)"><rect width="88" height="38" rx="10" class="chip" stroke="#22d3ee" stroke-opacity=".45"/><circle cx="19" cy="19" r="10" fill="#22d3ee" opacity=".18"/><text x="14" y="23" class="icon" fill="#22d3ee">●</text><text x="34" y="24" class="label">React</text></g><g transform="translate(484 24)"><rect width="94" height="38" rx="10" class="chip" stroke="#94a3b8" stroke-opacity=".45"/><circle cx="19" cy="19" r="10" fill="#94a3b8" opacity=".18"/><text x="14" y="23" class="icon" fill="#94a3b8">●</text><text x="34" y="24" class="label">Next.js</text></g><g transform="translate(580 24)"><rect width="102" height="38" rx="10" class="chip" stroke="#38bdf8" stroke-opacity=".45"/><circle cx="19" cy="19" r="10" fill="#38bdf8" opacity=".18"/><text x="14" y="23" class="icon" fill="#38bdf8">●</text><text x="34" y="24" class="label">Tailwind</text></g>
-    <rect x="0" y="78" width="7" height="4" rx="2" fill="#a78bfa"/><text x="17" y="84" class="group">MOTION &amp; 3D</text>
-    <g transform="translate(0 102)"><rect width="140" height="38" rx="10" class="chip" stroke="#22c55e" stroke-opacity=".5"/><text x="14" y="24" class="icon" fill="#22c55e">FM</text><text x="43" y="24" class="label">Framer Motion</text></g>
-    <g transform="translate(148 102)"><rect width="112" height="38" rx="10" class="chip" stroke="#a78bfa" stroke-opacity=".5"/><text x="14" y="24" class="icon" fill="#a78bfa">3D</text><text x="43" y="24" class="label">UI Motion</text></g>
-
-    <rect x="0" y="157" width="7" height="4" rx="2" fill="#facc15"/><text x="17" y="163" class="group">DATA &amp; ENTERPRISE</text>
-    <g transform="translate(0 181)"><rect width="82" height="38" rx="10" class="chip" stroke="#38bdf8" stroke-opacity=".5"/><text x="14" y="24" class="icon" fill="#38bdf8">DB</text><text x="45" y="24" class="label">SQL</text></g>
-    <g transform="translate(90 181)"><rect width="104" height="38" rx="10" class="chip" stroke="#22d3ee" stroke-opacity=".5"/><text x="14" y="24" class="icon" fill="#22d3ee">MY</text><text x="45" y="24" class="label">MySQL</text></g>
-    <g transform="translate(202 181)"><rect width="122" height="38" rx="10" class="chip" stroke="#60a5fa" stroke-opacity=".5"/><text x="14" y="24" class="icon" fill="#60a5fa">PG</text><text x="45" y="24" class="label">PostgreSQL</text></g>
-    <g transform="translate(332 181)"><rect width="112" height="38" rx="10" class="chip" stroke="#22c55e" stroke-opacity=".5"/><text x="14" y="24" class="icon" fill="#22c55e">MG</text><text x="45" y="24" class="label">MongoDB</text></g>
-
-    <rect x="0" y="236" width="7" height="4" rx="2" fill="#f472b6"/><text x="17" y="242" class="group">AI &amp; WORKFLOW</text>
-    <g transform="translate(0 260)"><rect width="104" height="38" rx="10" class="chip" stroke="#facc15" stroke-opacity=".5"/><text x="14" y="24" class="icon" fill="#facc15">JAVA</text><text x="55" y="24" class="label">Java</text></g>
-    <g transform="translate(112 260)"><rect width="112" height="38" rx="10" class="chip" stroke="#3b82f6" stroke-opacity=".5"/><text x="14" y="24" class="icon" fill="#3b82f6">PY</text><text x="45" y="24" class="label">Python</text></g>
-    <g transform="translate(232 260)"><rect width="126" height="38" rx="10" class="chip" stroke="#22c55e" stroke-opacity=".5"/><text x="14" y="24" class="icon" fill="#22c55e">SPR</text><text x="55" y="24" class="label">Spring Boot</text></g>
-    <g transform="translate(366 260)"><rect width="82" height="38" rx="10" class="chip" stroke="#f97316" stroke-opacity=".5"/><text x="14" y="24" class="icon" fill="#f97316">GIT</text><text x="48" y="24" class="label">Git</text></g>
-    <g transform="translate(456 260)"><rect width="98" height="38" rx="10" class="chip" stroke="#e2e8f0" stroke-opacity=".35"/><text x="14" y="24" class="icon" fill="#e2e8f0">GH</text><text x="45" y="24" class="label">GitHub</text></g>
+  <!-- Orbit 2 -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="24s" repeatCount="indefinite"/>
+    <g transform="translate(145 -78)">
+      <rect x="-37" y="-16" width="74" height="32" rx="10" class="node" stroke="#22d3ee"/><text x="-25" y="5" class="icon" fill="#22d3ee">REACT</text>
+    </g>
+    <g transform="translate(-145 78)">
+      <rect x="-37" y="-16" width="74" height="32" rx="10" class="node" stroke="#60a5fa"/><text x="-25" y="5" class="icon" fill="#60a5fa">PYTHON</text>
+    </g>
+    <g transform="translate(145 78)">
+      <rect x="-42" y="-16" width="84" height="32" rx="10" class="node" stroke="#22c55e"/><text x="-29" y="5" class="icon" fill="#22c55e">SPRING</text>
+    </g>
+    <g transform="translate(-145 -78)">
+      <rect x="-43" y="-16" width="86" height="32" rx="10" class="node" stroke="#f472b6"/><text x="-30" y="5" class="icon" fill="#f472b6">NEXT.JS</text>
+    </g>
   </g>
+
+  <!-- Orbit 3 -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="30s" repeatCount="indefinite"/>
+    <g transform="translate(95 -120)">
+      <rect x="-45" y="-16" width="90" height="32" rx="10" class="node" stroke="#a78bfa"/><text x="-31" y="5" class="icon" fill="#a78bfa">TAILWIND</text>
+    </g>
+    <g transform="translate(-95 120)">
+      <rect x="-48" y="-16" width="96" height="32" rx="10" class="node" stroke="#f59e0b"/><text x="-33" y="5" class="icon" fill="#f59e0b">BOOTSTRAP</text>
+    </g>
+    <g transform="translate(95 120)">
+      <rect x="-43" y="-16" width="86" height="32" rx="10" class="node" stroke="#22d3ee"/><text x="-29" y="5" class="icon" fill="#22d3ee">POSTGRES</text>
+    </g>
+    <g transform="translate(-95 -120)">
+      <rect x="-38" y="-16" width="76" height="32" rx="10" class="node" stroke="#60a5fa"/><text x="-25" y="5" class="icon" fill="#60a5fa">MYSQL</text>
+    </g>
+    <g transform="translate(180 55)">
+      <rect x="-39" y="-16" width="78" height="32" rx="10" class="node" stroke="#22c55e"/><text x="-27" y="5" class="icon" fill="#22c55e">MONGO</text>
+    </g>
+    <g transform="translate(-180 -55)">
+      <rect x="-55" y="-16" width="110" height="32" rx="10" class="node" stroke="#e2e8f0"/><text x="-40" y="5" class="icon" fill="#e2e8f0">GITHUB</text>
+    </g>
+  </g>
+
+  <!-- Orbit 4: remaining original tools -->
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="36s" repeatCount="indefinite"/>
+    <g transform="translate(190 -40)">
+      <rect x="-35" y="-16" width="70" height="32" rx="10" class="node" stroke="#f97316"/><text x="-22" y="5" class="icon" fill="#f97316">GIT</text>
+    </g>
+    <g transform="translate(-190 40)">
+      <rect x="-34" y="-16" width="68" height="32" rx="10" class="node" stroke="#22d3ee"/><text x="-23" y="5" class="icon" fill="#22d3ee">C++</text>
+    </g>
+    <g transform="translate(70 145)">
+      <rect x="-50" y="-16" width="100" height="32" rx="10" class="node" stroke="#a78bfa"/><text x="-35" y="5" class="icon" fill="#a78bfa">INTELLIJ</text>
+    </g>
+    <g transform="translate(-70 -145)">
+      <rect x="-38" y="-16" width="76" height="32" rx="10" class="node" stroke="#60a5fa"/><text x="-25" y="5" class="icon" fill="#60a5fa">VSCODE</text>
+    </g>
+  </g>
+
+  <circle r="61" fill="none" stroke="#a78bfa" stroke-opacity=".55">
+    <animate attributeName="r" values="61;72;61" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".65;.08;.65" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<!-- category labels: existing skill categories only -->
+<g transform="translate(520 120)">
+  <rect width="7" height="4" rx="2" fill="#22d3ee"/><text x="17" y="6" class="group">LANGUAGES</text>
+  <text x="0" y="35" class="label">Java · Python · JavaScript · C++ · HTML · CSS</text>
+
+  <rect y="63" width="7" height="4" rx="2" fill="#a78bfa"/><text x="17" y="69" class="group">FRONTEND</text>
+  <text x="0" y="98" class="label">React · Next.js · Tailwind CSS · Bootstrap</text>
+
+  <rect y="126" width="7" height="4" rx="2" fill="#facc15"/><text x="17" y="132" class="group">BACKEND &amp; DATABASES</text>
+  <text x="0" y="161" class="label">Spring · MongoDB · MySQL · PostgreSQL</text>
+
+  <rect y="189" width="7" height="4" rx="2" fill="#f472b6"/><text x="17" y="195" class="group">CLOUD, DEVOPS &amp; TOOLING</text>
+  <text x="0" y="224" class="label">Git · GitHub · IntelliJ IDEA · VS Code</text>
+
+  <rect y="264" width="520" height="1" fill="#334155" opacity=".45"/>
+  <text x="0" y="294" class="group">ALL SKILLS REVOLVE AROUND THE CORE</text>
+  <text x="0" y="320" class="label" opacity=".72">Same stack as your original README · no new technologies added</text>
+</g>
 </svg>
