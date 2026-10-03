@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540">
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <radialGradient id="core"><stop offset="0" stop-color="#f472b6"/><stop offset=".55" stop-color="#a78bfa"/><stop offset="1" stop-color="#4f46e5"/></radialGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#64748b" opacity=".14"/></pattern>
+    <style>
+      .bg{fill:#0d0e16}.card{fill:#111321;stroke:url(#border);stroke-width:1.5}
+      .title{font:700 27px Inter,Arial,sans-serif;fill:#f1f5f9}.kicker{font:700 12px ui-monospace,SFMono-Regular,Consolas,monospace;letter-spacing:3px;fill:#22d3ee}
+      .group{font:700 11px ui-monospace,SFMono-Regular,Consolas,monospace;letter-spacing:2px;fill:#94a3b8}
+      .chip{fill:#171a29;stroke:#34405b;stroke-width:1}.label{font:600 13px Inter,Arial,sans-serif;fill:#e2e8f0}
+      .icon{font:800 11px ui-monospace,SFMono-Regular,Consolas,monospace}
+    </style>
+  </defs>
+  <rect width="1200" height="540" class="bg"/>
+  <rect x="22" y="22" width="1156" height="496" rx="24" class="card"/>
+  <rect x="22" y="22" width="1156" height="496" rx="24" fill="url(#dots)"/>
+  <text x="58" y="66" class="kicker">// TECH STACK</text>
+  <text x="58" y="101" class="title">Tools I build with</text>
+
+  <!-- orbit system -->
+  <g transform="translate(285 285)">
+    <ellipse rx="175" ry="92" fill="none" stroke="#22d3ee" stroke-opacity=".28" transform="rotate(25)"/>
+    <ellipse rx="175" ry="92" fill="none" stroke="#a78bfa" stroke-opacity=".26" transform="rotate(-35)"/>
+    <ellipse rx="155" ry="125" fill="none" stroke="#38bdf8" stroke-opacity=".22" transform="rotate(80)"/>
+    <circle r="57" fill="#a78bfa" opacity=".16" filter="url(#glow)"/>
+    <circle r="43" fill="url(#core)" stroke="#f472b6" stroke-width="1.5"/>
+    <text x="-17" y="9" font-family="Arial,sans-serif" font-size="24" font-weight="800" fill="#fff">&lt;/&gt;</text>
+    <g>
+      <circle cx="-139" cy="-12" r="18" fill="#151a29" stroke="#f97316"/><text x="-148" y="-8" class="icon" fill="#f97316">HTML</text>
+      <circle cx="98" cy="-92" r="18" fill="#151a29" stroke="#22d3ee"/><text x="91" y="-88" class="icon" fill="#22d3ee">JS</text>
+      <circle cx="52" cy="107" r="18" fill="#151a29" stroke="#facc15"/><text x="45" y="111" class="icon" fill="#facc15">JS</text>
+      <circle cx="-9" cy="-128" r="18" fill="#151a29" stroke="#a78bfa"/><text x="-17" y="-124" class="icon" fill="#a78bfa">TS</text>
+      <circle cx="-8" cy="137" r="18" fill="#151a29" stroke="#38bdf8"/><text x="-17" y="141" class="icon" fill="#38bdf8">CSS</text>
+      <circle cx="127" cy="43" r="18" fill="#151a29" stroke="#22c55e"/><text x="118" y="47" class="icon" fill="#22c55e">PY</text>
+    </g>
+    <circle r="57" fill="none" stroke="#a78bfa" stroke-opacity=".5">
+      <animate attributeName="r" values="57;66;57" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".6;.05;.6" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- right skill groups -->
+  <g transform="translate(520 112)">
+    <rect x="0" y="0" width="7" height="4" rx="2" fill="#22d3ee"/><text x="17" y="6" class="group">FRONTEND</text>
+    <g transform="translate(0 24)"><rect width="88" height="38" rx="10" class="chip" stroke="#f97316" stroke-opacity=".45"/><circle cx="19" cy="19" r="10" fill="#f97316" opacity=".18"/><text x="14" y="23" class="icon" fill="#f97316">●</text><text x="34" y="24" class="label">HTML5</text></g><g transform="translate(90 24)"><rect width="78" height="38" rx="10" class="chip" stroke="#a78bfa" stroke-opacity=".45"/><circle cx="19" cy="19" r="10" fill="#a78bfa" opacity=".18"/><text x="14" y="23" class="icon" fill="#a78bfa">●</text><text x="34" y="24" class="label">CSS</text></g><g transform="translate(170 24)"><rect width="112" height="38" rx="10" class="chip" stroke="#facc15" stroke-opacity=".45"/><circle cx="19" cy="19" r="10" fill="#facc15" opacity=".18"/><text x="14" y="23" class="icon" fill="#facc15">●</text><text x="34" y="24" class="label">JavaScript</text></g><g transform="translate(284 24)"><rect width="108" height="38" rx="10" class="chip" stroke="#38bdf8" stroke-opacity=".45"/><circle cx="19" cy="19" r="10" fill="#38bdf8" opacity=".18"/><text x="14" y="23" class="icon" fill="#38bdf8">●</text><text x="34" y="24" class="label">TypeScript</text></g><g transform="translate(394 24)"><rect width="88" height="38" rx="10" class="chip" stroke="#22d3ee" stroke-opacity=".45"/><circle cx="19" cy="19" r="10" fill="#22d3ee" opacity=".18"/><text x="14" y="23" class="icon" fill="#22d3ee">●</text><text x="34" y="24" class="label">React</text></g><g transform="translate(484 24)"><rect width="94" height="38" rx="10" class="chip" stroke="#94a3b8" stroke-opacity=".45"/><circle cx="19" cy="19" r="10" fill="#94a3b8" opacity=".18"/><text x="14" y="23" class="icon" fill="#94a3b8">●</text><text x="34" y="24" class="label">Next.js</text></g><g transform="translate(580 24)"><rect width="102" height="38" rx="10" class="chip" stroke="#38bdf8" stroke-opacity=".45"/><circle cx="19" cy="19" r="10" fill="#38bdf8" opacity=".18"/><text x="14" y="23" class="icon" fill="#38bdf8">●</text><text x="34" y="24" class="label">Tailwind</text></g>
+    <rect x="0" y="78" width="7" height="4" rx="2" fill="#a78bfa"/><text x="17" y="84" class="group">MOTION &amp; 3D</text>
+    <g transform="translate(0 102)"><rect width="140" height="38" rx="10" class="chip" stroke="#22c55e" stroke-opacity=".5"/><text x="14" y="24" class="icon" fill="#22c55e">FM</text><text x="43" y="24" class="label">Framer Motion</text></g>
+    <g transform="translate(148 102)"><rect width="112" height="38" rx="10" class="chip" stroke="#a78bfa" stroke-opacity=".5"/><text x="14" y="24" class="icon" fill="#a78bfa">3D</text><text x="43" y="24" class="label">UI Motion</text></g>
+
+    <rect x="0" y="157" width="7" height="4" rx="2" fill="#facc15"/><text x="17" y="163" class="group">DATA &amp; ENTERPRISE</text>
+    <g transform="translate(0 181)"><rect width="82" height="38" rx="10" class="chip" stroke="#38bdf8" stroke-opacity=".5"/><text x="14" y="24" class="icon" fill="#38bdf8">DB</text><text x="45" y="24" class="label">SQL</text></g>
+    <g transform="translate(90 181)"><rect width="104" height="38" rx="10" class="chip" stroke="#22d3ee" stroke-opacity=".5"/><text x="14" y="24" class="icon" fill="#22d3ee">MY</text><text x="45" y="24" class="label">MySQL</text></g>
+    <g transform="translate(202 181)"><rect width="122" height="38" rx="10" class="chip" stroke="#60a5fa" stroke-opacity=".5"/><text x="14" y="24" class="icon" fill="#60a5fa">PG</text><text x="45" y="24" class="label">PostgreSQL</text></g>
+    <g transform="translate(332 181)"><rect width="112" height="38" rx="10" class="chip" stroke="#22c55e" stroke-opacity=".5"/><text x="14" y="24" class="icon" fill="#22c55e">MG</text><text x="45" y="24" class="label">MongoDB</text></g>
+
+    <rect x="0" y="236" width="7" height="4" rx="2" fill="#f472b6"/><text x="17" y="242" class="group">AI &amp; WORKFLOW</text>
+    <g transform="translate(0 260)"><rect width="104" height="38" rx="10" class="chip" stroke="#facc15" stroke-opacity=".5"/><text x="14" y="24" class="icon" fill="#facc15">JAVA</text><text x="55" y="24" class="label">Java</text></g>
+    <g transform="translate(112 260)"><rect width="112" height="38" rx="10" class="chip" stroke="#3b82f6" stroke-opacity=".5"/><text x="14" y="24" class="icon" fill="#3b82f6">PY</text><text x="45" y="24" class="label">Python</text></g>
+    <g transform="translate(232 260)"><rect width="126" height="38" rx="10" class="chip" stroke="#22c55e" stroke-opacity=".5"/><text x="14" y="24" class="icon" fill="#22c55e">SPR</text><text x="55" y="24" class="label">Spring Boot</text></g>
+    <g transform="translate(366 260)"><rect width="82" height="38" rx="10" class="chip" stroke="#f97316" stroke-opacity=".5"/><text x="14" y="24" class="icon" fill="#f97316">GIT</text><text x="48" y="24" class="label">Git</text></g>
+    <g transform="translate(456 260)"><rect width="98" height="38" rx="10" class="chip" stroke="#e2e8f0" stroke-opacity=".35"/><text x="14" y="24" class="icon" fill="#e2e8f0">GH</text><text x="45" y="24" class="label">GitHub</text></g>
+  </g>
+</svg>
