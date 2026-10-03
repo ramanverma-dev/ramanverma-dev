@@ -17,9 +17,6 @@
 
 ## Connect
 
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 <a href="https://www.linkedin.com/in/ramanverma-dev">
 <img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -264,6 +261,18 @@ March 2026
 
 </tr>
 </table>
+
+## GitHub Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramanverma-dev/ramanverma-dev/gh-pages/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramanverma-dev/ramanverma-dev/gh-pages/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ramanverma-dev/ramanverma-dev/gh-pages/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 <i>"Build systems that scale, products that matter, and software that lasts."</i>
 
