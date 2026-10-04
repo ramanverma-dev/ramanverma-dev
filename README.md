@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-banner.svg?v=1" width="100%" alt="Raman Verma — Software Engineer"/>
+<img src="./profile-banner.svg?v=3" width="100%" alt="Raman Verma — Software Engineer"/>
 
 <br/>
 
@@ -12,48 +12,51 @@
 
 ---
 
-<table>
-<tr>
-<td width="34%" valign="top">
-
 ## 👨‍💻 About Me
 
-**Raman Verma**  
-Software Engineer
+<table>
+<tr>
+<td width="48%" valign="top">
 
-I focus on building practical software with **Java, backend engineering and modern full-stack technologies**.
-
-- ☕ Java & Spring Boot
-- 🧩 DSA & problem solving
-- 🌐 Backend / REST APIs
-- 🗄️ SQL & databases
-- 🤖 AI/ML & AI-powered apps
-- 🚀 Full-stack development
-
-### 🎯 Current Goal
-
-Build scalable, maintainable applications and grow into a strong **Java Backend / Software Engineer**.
-
-### 🤝 Open To
-
-- Software Engineering
-- Java Backend
-- Full Stack
-- AI/ML projects
-- Open-source collaboration
+<img src="./about.svg?v=3" width="100%" alt="About Raman Verma"/>
 
 </td>
+<td width="52%" valign="top">
 
-<td width="66%" valign="top">
+### `developer`
 
-## ⚡ Tech Stack
+```java
+Developer raman = new Developer();
 
-<img src="./stack.svg?v=1" width="100%" alt="Tech Stack"/>
+raman.role = "Software Engineer";
+raman.focus = "Java Backend";
+raman.learning = [
+  "Spring Boot",
+  "DSA",
+  "System Design",
+  "AI / ML"
+];
+
+raman.builds = [
+  "Backend Systems",
+  "Full-Stack Apps",
+  "AI-powered Products"
+];
+```
+
+**Engineering mindset**
+
+> Learn → Build → Debug → Improve
 
 </td>
 </tr>
 </table>
 
+---
+
+## ⚡ Tech Stack
+
+<img src="./stack.svg?v=3" width="100%" alt="Interactive-style technology stack"/>
 ---
 
 ## 🚀 Projects
