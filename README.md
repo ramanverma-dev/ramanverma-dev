@@ -1,257 +1,148 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:7c3aed&height=220&section=header&text=Raman%20Verma&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
-
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Software+Engineer;Building+Scalable+%26+Intelligent+Products;Engineering+with+Product+Mindset" alt="Typing SVG"/>
-</a>
+<img src="./profile-banner.svg?v=1" width="100%" alt="Raman Verma — Software Engineer"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-4c1d95?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-Advanced-6366f1?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%2FML-Engineering-7c3aed?style=for-the-badge&logo=googlebrain&logoColor=white"/>
-<img src="https://img.shields.io/badge/India-Developer-312e81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-<br/>
-
-## Connect
-
-<a href="https://www.linkedin.com/in/ramanverma-dev">
-<img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:imramanverma2007@gmail.com">
-<img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/ramanverma-dev">
-<img src="https://img.shields.io/badge/GitHub-312e81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/>
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/ramanvermadev/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-4c1d95?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/ramanverma-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d0e16?style=for-the-badge&logo=linkedin&logoColor=22d3ee"/></a>
+<a href="mailto:imramanverma2007@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0d0e16?style=for-the-badge&logo=gmail&logoColor=f472b6"/></a>
+<a href="https://leetcode.com/u/ramanvermadev/"><img src="https://img.shields.io/badge/LeetCode-Profile-0d0e16?style=for-the-badge&logo=leetcode&logoColor=facc15"/></a>
 
 </div>
 
-
-<br/><br/>
-
 ---
 
-## About
-
 <table>
 <tr>
-<td>
+<td width="34%" valign="top">
 
-I’m Raman Verma, an aspiring Software Engineer focused on **Java backend development, problem-solving, and building practical software applications**.
+## 👨‍💻 About Me
 
-My core technical interests include **Java, Object-Oriented Programming, Data Structures & Algorithms, Spring Boot, SQL, databases, REST APIs, Git/GitHub, and backend development**.
+**Raman Verma**  
+Software Engineer
 
-I also have a foundation in **Python, AI/ML, and data science**, and I’m exploring how AI can be integrated into practical software applications.
-
-I learn by building — solving problems, developing projects, understanding software architecture, and continuously strengthening my engineering fundamentals.
-
-My current goal is to build scalable and maintainable applications while growing as a **Java Backend / Software Engineer**.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎯 Currently Focused On
+I focus on building practical software with **Java, backend engineering and modern full-stack technologies**.
 
 - ☕ Java & Spring Boot
-- 🧩 Data Structures & Algorithms
-- 🌐 Backend Development
-- 🗄️ SQL & Databases
-- 🔌 REST APIs
-- 🛠️ Git & GitHub
-- 🤖 AI/ML & AI-powered Applications
-- 🚀 Full-Stack Development
+- 🧩 DSA & problem solving
+- 🌐 Backend / REST APIs
+- 🗄️ SQL & databases
+- 🤖 AI/ML & AI-powered apps
+- 🚀 Full-stack development
 
-</td>
+### 🎯 Current Goal
 
-<td width="50%" valign="top">
-
-### 🤝 Open To
-
-- Software Engineering Opportunities
-- Java Backend Development
-- Backend Engineering
-- Full-Stack Development
-- AI/ML Projects
-- AI-powered Product Development
-- Open-source Collaboration
-- Software Engineering Projects
-
-</td>
-
-</tr>
-</table>
-
----
-
-## Tech Stack
-
-<div align="center">
-
-<img src="./stack.svg?v=1" alt="Raman Verma Tech Stack" width="100%"/>
-
-</div>
-
----
-
-## Certifications
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 Generative AI
-
-**AICTE–EduSkills**  
-Gen AI Virtual Internship  
-*June – August 2026*  
-Curriculum by AWS Academy
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 AI & Machine Learning
-
-**AICTE–EduSkills**  
-AI-ML Virtual Internship  
-*January – March 2026*  
-Supported by Google for Developers
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 📊 Machine Learning & Data Science
-
-**EduSkills Academy**  
-Machine Learning & Data Science Internship  
-*8-week program*  
-Completed June 2026
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📈 Data Visualization
-
-**Anudip Foundation / Mettl**  
-Data Visualization  
-*136 Hours · Grade A1*  
-March 2026
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-## Current Focus
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 📚 Learning
-
-- Advanced Java & Spring Boot
-- Data Structures & Algorithms
-- System Design
-- Distributed Systems
-- AI/ML Engineering
-- LLM Application Development
-- Cloud Architecture
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛠️ Building
-
-- AI-powered software products
-- Full-stack applications
-- Production-ready backend systems
-- Intelligent recommendation systems
-- Developer productivity tools
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔭 Exploring
-
-- Generative AI
-- AI Agents
-- Retrieval-Augmented Generation
-- Vector Databases
-- Cloud-Native Architecture
-- Scalable Distributed Systems
-
-</td>
-
-<td width="50%" valign="top">
+Build scalable, maintainable applications and grow into a strong **Java Backend / Software Engineer**.
 
 ### 🤝 Open To
 
 - Software Engineering
-- AI/ML Engineering
-- Backend Engineering
-- Full Stack Engineering
-- Open Source Collaboration
-- High-Impact Engineering Projects
+- Java Backend
+- Full Stack
+- AI/ML projects
+- Open-source collaboration
 
 </td>
 
+<td width="66%" valign="top">
+
+## ⚡ Tech Stack
+
+<img src="./stack.svg?v=1" width="100%" alt="Tech Stack"/>
+
+</td>
 </tr>
 </table>
 
-## GitHub Contributions
+---
+
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Software Projects
+
+Building practical applications with a focus on:
+
+- clean architecture
+- backend APIs
+- database integration
+- responsive interfaces
+- maintainable code
+
+**Java · Spring Boot · React · SQL**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI / ML Projects
+
+Exploring AI-powered software through:
+
+- Python
+- machine learning
+- intelligent application features
+- data-driven workflows
+
+**Python · AI/ML · Data Science**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Certifications & Learning
+
+| Program | Organization | Period |
+|---|---|---|
+| Generative AI Virtual Internship | AICTE–EduSkills / AWS Academy | Jun–Aug 2026 |
+| AI-ML Virtual Internship | AICTE–EduSkills / Google for Developers | Jan–Mar 2026 |
+| Machine Learning & Data Science Internship | EduSkills Academy | 8 weeks |
+| Data Visualization | Anudip Foundation / Mettl | 136 Hours · Grade A1 |
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramanverma-dev/ramanverma-dev/gh-pages/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramanverma-dev/ramanverma-dev/gh-pages/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ramanverma-dev/ramanverma-dev/gh-pages/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramanverma-dev/ramanverma-dev/gh-pages/github-contribution-grid-snake-dark.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramanverma-dev/ramanverma-dev/gh-pages/github-contribution-grid-snake.svg?v=1">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ramanverma-dev/ramanverma-dev/gh-pages/github-contribution-grid-snake.svg?v=1" width="100%">
 </picture>
 
 </div>
 
-<i>"Build systems that scale, products that matter, and software that lasts."</i>
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+`Java & Spring Boot` · `DSA` · `System Design` · `AI/ML` · `LLM Apps` · `Cloud Architecture`
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:6366f1,100:4c1d95&height=120&section=footer&animation=fadeIn" width="100%"/>
+---
+
+## 📫 Connect
+
+<div align="center">
+
+**Let's build something useful.**
+
+<a href="https://github.com/ramanverma-dev">GitHub</a> •
+<a href="https://www.linkedin.com/in/ramanverma-dev">LinkedIn</a> •
+<a href="mailto:imramanverma2007@gmail.com">Email</a> •
+<a href="https://leetcode.com/u/ramanvermadev/">LeetCode</a>
+
+<br/><br/>
+
+<i>"Build systems that scale, products that matter, and software that lasts."</i>
 
 </div>
