@@ -1,7 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="About Raman Verma">
-<rect width="1200" height="250" rx="24" fill="#070b16" stroke="#1d2b47"/><rect x="0" y="0" width="8" height="250" rx="4" fill="#247bff"/>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b16"/><stop offset="1" stop-color="#101a2e"/></linearGradient><clipPath id="portrait"><rect x="880" y="24" width="260" height="202" rx="18"/></clipPath></defs>
+<rect width="1200" height="250" rx="24" fill="url(#bg)" stroke="#1d2b47"/><rect x="0" y="0" width="8" height="250" rx="4" fill="#247bff"/>
 <text x="48" y="58" fill="#7eafff" font-family="monospace" font-size="15" letter-spacing="3">01 / ABOUT</text>
 <text x="48" y="105" fill="#f7f9ff" font-family="Arial,sans-serif" font-size="31" font-weight="700">Learning by building.</text>
 <text x="48" y="146" fill="#c3cce0" font-family="Arial,sans-serif" font-size="20">B.Tech student focused on software engineering, Java, web development,</text>
 <text x="48" y="176" fill="#c3cce0" font-family="Arial,sans-serif" font-size="20">databases, and practical AI/ML applications.</text>
-<g transform="translate(880 54)"><rect width="260" height="140" rx="18" fill="#0d1629" stroke="#2a3d60"/><text x="24" y="38" fill="#ff6477" font-family="monospace" font-size="13">WORK IN PROGRESS</text><path d="M24 62H220M24 82H180M24 102H205" stroke="#31496f" stroke-width="8" stroke-linecap="round"/><circle cx="225" cy="102" r="7" fill="#247bff"/></g></svg>
+<g clip-path="url(#portrait)"><rect x="880" y="24" width="260" height="202" fill="#0a1020"/><image href="https://commons.wikimedia.org/wiki/Special:FilePath/NYCC_2016_-_Super_Saiyan_Blue_Goku_(30227483945).jpg?width=500" x="880" y="24" width="260" height="202" preserveAspectRatio="xMidYMid slice"/><rect x="880" y="24" width="260" height="202" fill="none" stroke="#2a3d60" stroke-width="2"/></g>
+</svg>
