@@ -13,7 +13,7 @@
 
 ---
 
-<img src="./assets/about-life.svg?v=1" width="100%" alt="About Raman Verma"/>
+<img src="./assets/about-life.svg?v=2" width="100%" alt="About Raman Verma"/>
 
 ## About Me
 
@@ -57,15 +57,6 @@ I'm Raman Verma, a B.Tech student focused on growing as a **Software Engineer**.
 ---
 
 <img src="./assets/id-dashboard.svg?v=1" width="100%" alt="Profile card"/>
-
-## GitHub Contributions
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ramanverma-dev&show_icons=true&hide_border=true&bg_color=070b16&title_color=7eafff&text_color=c3cce0&icon_color=ff6477" alt="GitHub stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ramanverma-dev&hide_border=true&background=070b16&ring=247bff&fire=ff354f&currStreakLabel=7eafff&sideLabels=c3cce0&dates=9aa9c4" alt="GitHub streak" width="49%"/>
-
-</div>
 
 ---
 
