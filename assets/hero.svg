@@ -6,6 +6,5 @@
 <text x="66" y="164" fill="#f7f9ff" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="700">Software Engineer</text>
 <text x="70" y="210" fill="#b8c4dc" font-family="Arial,Helvetica,sans-serif" font-size="23">Building practical software, one project at a time.</text>
 <rect x="70" y="240" width="160" height="40" rx="20" fill="#247bff" opacity=".18" stroke="#247bff"/><text x="150" y="266" text-anchor="middle" fill="#dbe8ff" font-family="Arial,sans-serif" font-size="15">JAVA • WEB • AI</text>
-<g transform="translate(980 104)"><rect width="142" height="142" rx="24" fill="#0c1426" stroke="#30466d"/><path d="M34 48h74M34 70h74M34 92h46" stroke="#247bff" stroke-width="7" stroke-linecap="round"/><circle cx="108" cy="108" r="9" fill="#ff354f"/><circle cx="34" cy="108" r="9" fill="#247bff"/></g>
 <g opacity=".55" fill="#247bff"><circle cx="875" cy="74" r="3"/><circle cx="910" cy="74" r="3"/><circle cx="945" cy="74" r="3"/></g>
 </svg>
