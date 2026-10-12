@@ -13,7 +13,7 @@
 
 ---
 
-<img src="./assets/about-life.svg?v=3" width="100%" alt="About Raman Verma"/>
+<img src="./assets/about-life.svg?v=4" width="100%" alt="About Raman Verma"/>
 
 ## About Me
 
