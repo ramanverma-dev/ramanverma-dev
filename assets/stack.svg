@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Technology stack">
+<rect width="1200" height="280" rx="24" fill="#070b16" stroke="#1d2b47"/><text x="48" y="55" fill="#7eafff" font-family="monospace" font-size="15" letter-spacing="3">02 / TOOLKIT</text><text x="48" y="98" fill="#f7f9ff" font-family="Arial,sans-serif" font-size="30" font-weight="700">Tools I work with</text>
+<g font-family="Arial,sans-serif" font-size="18" font-weight="600">
+<rect x="48" y="130" width="140" height="48" rx="12" fill="#101c33" stroke="#247bff"/><text x="118" y="160" text-anchor="middle" fill="#e8efff">Java</text>
+<rect x="202" y="130" width="140" height="48" rx="12" fill="#101c33" stroke="#247bff"/><text x="272" y="160" text-anchor="middle" fill="#e8efff">Python</text>
+<rect x="356" y="130" width="160" height="48" rx="12" fill="#101c33" stroke="#247bff"/><text x="436" y="160" text-anchor="middle" fill="#e8efff">JavaScript</text>
+<rect x="530" y="130" width="140" height="48" rx="12" fill="#101c33" stroke="#247bff"/><text x="600" y="160" text-anchor="middle" fill="#e8efff">React</text>
+<rect x="684" y="130" width="160" height="48" rx="12" fill="#101c33" stroke="#247bff"/><text x="764" y="160" text-anchor="middle" fill="#e8efff">Next.js</text>
+<rect x="858" y="130" width="140" height="48" rx="12" fill="#101c33" stroke="#ff354f"/><text x="928" y="160" text-anchor="middle" fill="#e8efff">Spring</text>
+<rect x="1012" y="130" width="140" height="48" rx="12" fill="#101c33" stroke="#ff354f"/><text x="1082" y="160" text-anchor="middle" fill="#e8efff">SQL</text>
+</g><text x="48" y="225" fill="#9aa9c4" font-family="Arial,sans-serif" font-size="17">Also using: HTML • CSS • Tailwind CSS • Bootstrap • MongoDB • PostgreSQL • Git • GitHub • VS Code • IntelliJ IDEA</text></svg>
