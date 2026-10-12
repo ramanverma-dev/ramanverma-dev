@@ -1,20 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="About Raman Verma">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b16"/><stop offset="1" stop-color="#101a2e"/></linearGradient><clipPath id="portrait"><rect x="880" y="24" width="260" height="202" rx="18"/></clipPath></defs>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b16"/><stop offset="1" stop-color="#101a2e"/></linearGradient></defs>
 <rect width="1200" height="250" rx="24" fill="url(#bg)" stroke="#1d2b47"/><rect x="0" y="0" width="8" height="250" rx="4" fill="#247bff"/>
 <text x="48" y="58" fill="#7eafff" font-family="monospace" font-size="15" letter-spacing="3">01 / ABOUT</text>
 <text x="48" y="105" fill="#f7f9ff" font-family="Arial,sans-serif" font-size="31" font-weight="700">Learning by building.</text>
 <text x="48" y="146" fill="#c3cce0" font-family="Arial,sans-serif" font-size="20">B.Tech student focused on software engineering, Java, web development,</text>
 <text x="48" y="176" fill="#c3cce0" font-family="Arial,sans-serif" font-size="20">databases, and practical AI/ML applications.</text>
-<g clip-path="url(#portrait)">
-<rect x="880" y="24" width="260" height="202" fill="#10182b"/>
-<circle cx="1010" cy="104" r="54" fill="#f0b783"/>
-<!-- iconic spiky black hair -->
-<path d="M957 94 L939 68 L968 76 L961 43 L988 65 L1001 29 L1017 63 L1043 39 L1040 70 L1072 60 L1057 91 L1063 105 L1047 98 L1040 81 L1025 91 L1013 72 L998 92 L983 79 L973 101 Z" fill="#11131b" stroke="#05070c" stroke-width="3" stroke-linejoin="round"/>
-<path d="M977 111 Q989 105 997 111 M1023 111 Q1034 105 1044 111" fill="none" stroke="#241b18" stroke-width="4" stroke-linecap="round"/>
-<path d="M1001 129 Q1010 136 1020 128" fill="none" stroke="#7b3e2a" stroke-width="3" stroke-linecap="round"/>
-<path d="M951 155 Q974 143 990 151 L1010 174 L1031 151 Q1052 143 1072 155 L1100 226 L920 226 Z" fill="#f07819"/>
-<path d="M990 151 L1010 174 L1031 151 L1023 226 L997 226 Z" fill="#f5f0df"/>
-<path d="M951 155 L972 174 L961 226 L920 226 Z M1072 155 L1050 174 L1062 226 L1100 226 Z" fill="#1d63b8"/>
-<path d="M880 24 H1140 V226 H880 Z" fill="none" stroke="#2a3d60" stroke-width="2"/>
-</g>
 </svg>
