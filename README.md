@@ -110,7 +110,7 @@ My current goal is to build scalable and maintainable applications while growing
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,cpp,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
 
 </div>
 
