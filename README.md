@@ -1,283 +1,85 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:7c3aed&height=220&section=header&text=Raman%20Verma&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="./assets/hero.svg?v=1" width="100%" alt="Raman Verma — Software Engineer"/>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Software+Engineer;Building+Scalable+%26+Intelligent+Products;Engineering+with+Product+Mindset" alt="Typing SVG"/>
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-4c1d95?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-Advanced-6366f1?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%2FML-Engineering-7c3aed?style=for-the-badge&logo=googlebrain&logoColor=white"/>
-<img src="https://img.shields.io/badge/India-Developer-312e81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
-<br/>
-
-## Connect
-
-<a href="https://www.linkedin.com/in/ramanverma-dev">
-<img src="https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:imramanverma2007@gmail.com">
-<img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/ramanverma-dev">
-<img src="https://img.shields.io/badge/GitHub-312e81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/>
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/ramanvermadev/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-4c1d95?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</div>
-
-
-<br/><br/>
-
----
-
-## About
-
-<table>
-<tr>
-<td>
-
-I’m Raman Verma, an aspiring Software Engineer focused on **Java backend development, problem-solving, and building practical software applications**.
-
-My core technical interests include **Java, Object-Oriented Programming, Data Structures & Algorithms, Spring Boot, SQL, databases, REST APIs, Git/GitHub, and backend development**.
-
-I also have a foundation in **Python, AI/ML, and data science**, and I’m exploring how AI can be integrated into practical software applications.
-
-I learn by building — solving problems, developing projects, understanding software architecture, and continuously strengthening my engineering fundamentals.
-
-My current goal is to build scalable and maintainable applications while growing as a **Java Backend / Software Engineer**.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎯 Currently Focused On
-
-- ☕ Java & Spring Boot
-- 🧩 Data Structures & Algorithms
-- 🌐 Backend Development
-- 🗄️ SQL & Databases
-- 🔌 REST APIs
-- 🛠️ Git & GitHub
-- 🤖 AI/ML & AI-powered Applications
-- 🚀 Full-Stack Development
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤝 Open To
-
-- Software Engineering Opportunities
-- Java Backend Development
-- Backend Engineering
-- Full-Stack Development
-- AI/ML Projects
-- AI-powered Product Development
-- Open-source Collaboration
-- Software Engineering Projects
-
-</td>
-
-</tr>
-</table>
-
----
-
-## Tech Stack
-
-### Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
-
-</div>
-
-### Frontend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
-
-</div>
-
-### Backend & Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,mongodb,mysql,postgresql&theme=dark" />
-
-</div>
-
-### Cloud, DevOps & Tooling
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode&theme=dark" />
+<p>
+  <a href="https://github.com/ramanverma-dev"><img src="https://img.shields.io/badge/GitHub-070b16?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/ramanverma-dev"><img src="https://img.shields.io/badge/LinkedIn-247bff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:imramanverma2007@gmail.com"><img src="https://img.shields.io/badge/Email-ff354f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com/u/ramanvermadev/"><img src="https://img.shields.io/badge/LeetCode-070b16?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+</p>
 
 </div>
 
 ---
 
-## Certifications
+<img src="./assets/about-life.svg?v=1" width="100%" alt="About Raman Verma"/>
 
-<table>
-<tr>
+## About Me
 
-<td width="50%" valign="top">
+I'm Raman Verma, a B.Tech student focused on growing as a **Software Engineer**. I enjoy learning through hands-on projects and strengthening my foundations in Java, web development, databases, and AI/ML.
 
-### 🤖 Generative AI
+- 🎓 B.Tech in Artificial Intelligence and Machine Learning
+- 💻 Interested in software development, Java, and full-stack web applications
+- 🧠 Building my foundations in programming, problem-solving, and practical AI/ML
+- 🤝 Open to learning, collaborating, and contributing to meaningful projects
 
-**AICTE–EduSkills**  
-Gen AI Virtual Internship  
-*June – August 2026*  
-Curriculum by AWS Academy
+---
 
-</td>
+<img src="./assets/stack.svg?v=1" width="100%" alt="Technology stack"/>
 
-<td width="50%" valign="top">
+### Tech Stack
 
-### 🧠 AI & Machine Learning
+**Languages:** Java, Python, JavaScript, HTML, CSS  
+**Frontend:** React, Next.js, Tailwind CSS, Bootstrap  
+**Backend & Databases:** Spring, MongoDB, MySQL, PostgreSQL  
+**Tools:** Git, GitHub, IntelliJ IDEA, VS Code
 
-**AICTE–EduSkills**  
-AI-ML Virtual Internship  
-*January – March 2026*  
-Supported by Google for Developers
+---
 
-</td>
+## Projects
 
-</tr>
+| Project | Description | Repository |
+|---|---|---|
+| Breast Cancer Prediction | Machine-learning project focused on a breast cancer prediction use case. | [View project](https://github.com/ramanverma-dev/breast-cancer-prediction) |
+| Salon Booking System | Web project for a salon booking workflow. | [View project](https://github.com/ramanverma-dev/salon-booking-system) |
+| ATM Bank Management System | Java project for a basic ATM/banking workflow. | [View project](https://github.com/ramanverma-dev/ATM-bank-management-system) |
+| Resume Analyzer | Project focused on analyzing resumes. | [View project](https://github.com/ramanverma-dev/Resume-Analyzer) |
 
-<tr>
+---
 
-<td width="50%" valign="top">
+## Learning & Experience
 
-### 📊 Machine Learning & Data Science
+- Java Full Stack Development — continued practice with Java, Spring, web technologies, and SQL.
+- AI/ML and Generative AI — foundational learning through structured virtual internship programs.
+- Improving programming fundamentals, project-building skills, and collaborative development habits.
 
-**EduSkills Academy**  
-Machine Learning & Data Science Internship  
-*8-week program*  
-Completed June 2026
+---
 
-</td>
-
-<td width="50%" valign="top">
-
-### 📈 Data Visualization
-
-**Anudip Foundation / Mettl**  
-Data Visualization  
-*136 Hours · Grade A1*  
-March 2026
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-## Current Focus
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 📚 Learning
-
-- Advanced Java & Spring Boot
-- Data Structures & Algorithms
-- System Design
-- Distributed Systems
-- AI/ML Engineering
-- LLM Application Development
-- Cloud Architecture
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛠️ Building
-
-- AI-powered software products
-- Full-stack applications
-- Production-ready backend systems
-- Intelligent recommendation systems
-- Developer productivity tools
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔭 Exploring
-
-- Generative AI
-- AI Agents
-- Retrieval-Augmented Generation
-- Vector Databases
-- Cloud-Native Architecture
-- Scalable Distributed Systems
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤝 Open To
-
-- Software Engineering
-- AI/ML Engineering
-- Backend Engineering
-- Full Stack Engineering
-- Open Source Collaboration
-- High-Impact Engineering Projects
-
-</td>
-
-</tr>
-</table>
+<img src="./assets/id-dashboard.svg?v=1" width="100%" alt="Profile card"/>
 
 ## GitHub Contributions
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramanverma-dev/ramanverma-dev/gh-pages/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramanverma-dev/ramanverma-dev/gh-pages/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ramanverma-dev/ramanverma-dev/gh-pages/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=ramanverma-dev&show_icons=true&hide_border=true&bg_color=070b16&title_color=7eafff&text_color=c3cce0&icon_color=ff6477" alt="GitHub stats" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ramanverma-dev&hide_border=true&background=070b16&ring=247bff&fire=ff354f&currStreakLabel=7eafff&sideLabels=c3cce0&dates=9aa9c4" alt="GitHub streak" width="49%"/>
 
 </div>
 
-<i>"Build systems that scale, products that matter, and software that lasts."</i>
+---
 
-</div>
+<img src="./assets/connect.svg?v=1" width="100%" alt="Connect with Raman Verma"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:6366f1,100:4c1d95&height=120&section=footer&animation=fadeIn" width="100%"/>
+<div align="center">
+
+<a href="https://github.com/ramanverma-dev">GitHub</a> ·
+<a href="https://www.linkedin.com/in/ramanverma-dev">LinkedIn</a> ·
+<a href="mailto:imramanverma2007@gmail.com">Email</a> ·
+<a href="https://leetcode.com/u/ramanvermadev/">LeetCode</a>
+
+<br/><br/>
+
+<i>Build, learn, and keep improving.</i>
 
 </div>
