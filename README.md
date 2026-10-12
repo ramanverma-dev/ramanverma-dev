@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg?v=1" width="100%" alt="Raman Verma — Software Engineer"/>
+<img src="./assets/hero.svg?v=2" width="100%" alt="Raman Verma — Software Engineer"/>
 
 <p>
   <a href="https://github.com/ramanverma-dev"><img src="https://img.shields.io/badge/GitHub-070b16?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -13,7 +13,7 @@
 
 ---
 
-<img src="./assets/about-life.svg?v=4" width="100%" alt="About Raman Verma"/>
+<img src="./assets/about-life.svg?v=5" width="100%" alt="About Raman Verma"/>
 
 ## About Me
 
