@@ -1,99 +1,123 @@
 <div align="center">
 
-<img src="./assets/hero.svg?v=3" width="100%" alt="Raman Verma — Software Engineer" />
+# 👋 Hello World, I'm Raman Verma
+
+<img src="./assets/hero.svg?v=4" width="100%" alt="Raman Verma — Software Engineer banner" />
 
 <p>
-  <a href="https://github.com/ramanverma-dev"><img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/ramanverma-dev"><img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="mailto:imramanverma2007@gmail.com"><img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-  <a href="https://leetcode.com/u/ramanvermadev/"><img src="https://img.shields.io/badge/LeetCode-171717?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
+  <a href="https://github.com/ramanverma-dev"><img src="https://img.shields.io/badge/GitHub-20252b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ramanverma-dev"><img src="https://img.shields.io/badge/LinkedIn-20252b?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="mailto:imramanverma2007@gmail.com"><img src="https://img.shields.io/badge/Email-20252b?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="https://leetcode.com/u/ramanvermadev/"><img src="https://img.shields.io/badge/LeetCode-20252b?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
 </p>
 
-**Software Engineer · Java Full Stack Developer**  
-*Building Scalable & Intelligent Products*
+**Software Engineer in progress · Java Full Stack Development**
 
 </div>
 
 ---
 
-## 👋 Hello, I'm Raman
+## 👨‍💻 About Me
 
-I'm a B.Tech Computer Science student working toward becoming a software engineer. I learn by building projects, improving my programming fundamentals, and turning concepts into practical applications.
+I'm a B.Tech student focused on becoming a software engineer. I enjoy learning by building projects, understanding how applications work end-to-end, and improving my programming fundamentals one step at a time.
 
 - 🎓 B.Tech student focused on software development
-- ☕ Learning Java, backend development, and full-stack engineering
-- 🌐 Building web applications and working with relational databases
-- 🤖 Exploring AI/ML through hands-on projects
-- 🤝 Open to collaboration, feedback, and opportunities to learn
+- ☕ Learning Java, object-oriented programming, and backend development
+- 🌐 Building web applications and learning full-stack workflows
+- 🗄️ Practising database design and SQL with MySQL and PostgreSQL
+- 🤖 Exploring AI/ML through practical projects
+- 🤝 Open to collaboration, constructive feedback, and opportunities to learn
+
+---
+
+## 🧩 A Little About My Developer Journey
+
+```javascript
+const raman = {
+  role: "Aspiring Software Engineer",
+  focus: ["Java", "Full Stack Development", "Problem Solving"],
+  languages: ["Java", "Python", "JavaScript", "HTML", "CSS"],
+  tools: ["Git", "GitHub", "VS Code", "IntelliJ IDEA"],
+  databases: ["MySQL", "PostgreSQL"],
+  currentlyLearning: [
+    "Java and Spring",
+    "Backend APIs",
+    "Data Structures & Algorithms",
+    "Practical AI/ML"
+  ],
+  mindset: "Learn by building, improve through feedback"
+};
+```
 
 ---
 
 ## 🎯 What I'm Working On
 
-| Software Development | Full Stack | AI / ML |
+| ☕ Programming & Development | 🌐 Full Stack | 🤖 AI / ML |
 |:--|:--|:--|
-| Strengthening Java and programming fundamentals | Building responsive web interfaces | Learning core machine-learning concepts |
-| Practising problem-solving and clean code | Learning backend APIs and database integration | Experimenting with data-driven projects |
-| Improving project structure and documentation | Connecting frontend, backend, and SQL | Understanding model workflows and evaluation |
+| Strengthening Java and OOP fundamentals | Building responsive web interfaces | Learning core ML concepts |
+| Practising problem-solving and clean code | Learning backend APIs and SQL integration | Exploring data-driven projects |
+| Improving code structure and documentation | Connecting application layers | Understanding model workflows |
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**  
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Java, Python, JavaScript, HTML and CSS" />
-</p>
+<div align="center">
 
-**Frontend**  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" alt="React, Next.js, Tailwind CSS, Bootstrap and Vite" />
-</p>
+**Languages**
 
-**Backend & Databases**  
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,postgres,mongodb" alt="Spring, Node.js, MySQL, PostgreSQL and MongoDB" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Java, Python, JavaScript, HTML, CSS" />
 
-**Tools**  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven" alt="Git, GitHub, VS Code, IntelliJ IDEA and Maven" />
-</p>
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" alt="React, Next.js, Tailwind CSS, Bootstrap, Vite" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,postgres" alt="Spring, Node.js, MySQL, PostgreSQL" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven" alt="Git, GitHub, VS Code, IntelliJ IDEA, Maven" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | What it is | |
+| Project | Description | Repository |
 |:--|:--|:--:|
-| **ATM Bank Management System** | Banking workflow project with a web version and backend work in progress. | [Repository](https://github.com/ramanverma-dev/ATM-bank-management-system) |
-| **Breast Cancer Prediction** | Machine-learning project exploring a breast cancer prediction use case. | [Repository](https://github.com/ramanverma-dev/breast-cancer-prediction) |
-| **Resume Analyzer** | Project focused on analysing resume information. | [Repository](https://github.com/ramanverma-dev/Resume-Analyzer) |
-| **Salon Booking System** | Web project for a salon booking workflow. | [Repository](https://github.com/ramanverma-dev/salon-booking-system) |
+| **ATM Bank Management System** | Banking workflow project with a web frontend and Java backend development. | [View](https://github.com/ramanverma-dev/ATM-bank-management-system) |
+| **Breast Cancer Prediction** | Machine-learning project exploring a breast cancer prediction use case. | [View](https://github.com/ramanverma-dev/breast-cancer-prediction) |
+| **Resume Analyzer** | Project focused on analysing resume information. | [View](https://github.com/ramanverma-dev/Resume-Analyzer) |
+| **Salon Booking System** | Web project for a salon booking workflow. | [View](https://github.com/ramanverma-dev/salon-booking-system) |
 
 ---
 
-## 📌 Current Focus
+## 📚 Current Focus
 
-- Java and object-oriented programming
-- Full-stack development and REST APIs
-- SQL, database design, and integration
+- Java fundamentals, OOP, and clean code
+- Full-stack development with frontend, backend, and databases
+- SQL queries and database integration
 - Data structures, algorithms, and problem-solving
-- Writing clear READMEs and maintaining useful project documentation
+- Writing useful documentation for projects
 
 ---
 
 ## 🤝 Let's Connect
 
-Have an idea, feedback, or want to collaborate on a project? Reach out.
+Interested in collaborating, sharing feedback, or building something useful? Connect with me.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ramanverma-dev"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="Connect on LinkedIn" /></a>
-<a href="mailto:imramanverma2007@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-171717?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Send an email" /></a>
+<a href="https://www.linkedin.com/in/ramanverma-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-20252b?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="mailto:imramanverma2007@gmail.com"><img src="https://img.shields.io/badge/Email-Me-20252b?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+<a href="https://github.com/ramanverma-dev"><img src="https://img.shields.io/badge/Portfolio-GitHub-20252b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
 
-<sub>Build thoughtfully. Learn continuously. Improve with every project.</sub>
+<sub>Build thoughtfully · Learn continuously · Improve with every project</sub>
 
 </div>
